@@ -16,6 +16,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      {/* <script src="http://localhost:8097" async></script> */}
+
       <body className={inter.className}>{children}</body>
     </html>
   )

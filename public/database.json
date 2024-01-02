@@ -1,0 +1,138 @@
+{
+  "songs": [
+    {
+      "id": "0",
+      "title": "Guess The Music Ain`t For You",
+      "albumId": "0",
+      "duration": "3:27",
+      "uri": ""
+    },
+    {
+      "id": "1",
+      "title": "Lay With Me",
+      "albumId": "0",
+      "duration": "4:08",
+      "uri": ""
+    },
+    {
+      "id": "2",
+      "title": "Monday to Thursday",
+      "albumId": "0",
+      "duration": "3:37",
+      "uri": ""
+    },
+    {
+      "id": "3",
+      "title": "Perjury Of My Company",
+      "albumId": "0",
+      "duration": "2:59",
+      "uri": ""
+    },
+    {
+      "id": "4",
+      "title": "Night Stalker (Slut)",
+      "albumId": "1",
+      "duration": "3:23",
+      "uri": ""
+    },
+    {
+      "id": "5",
+      "title": "Try Living In My World",
+      "albumId": "1",
+      "duration": "3:03",
+      "uri": ""
+    },
+    {
+      "id": "6",
+      "title": "What Comes Up",
+      "albumId": "1",
+      "duration": "3:11",
+      "uri": ""
+    },
+    {
+      "id": "7",
+      "title": "She's Up There",
+      "albumId": "1",
+      "duration": "3:18",
+      "uri": ""
+    },
+    {
+      "id": "8",
+      "title": "Picking Song",
+      "albumId": "3",
+      "duration": "3:18",
+      "uri": ""
+    },
+    {
+      "id": "9",
+      "title": "Doing Fine",
+      "albumId": "3",
+      "duration": "3:18",
+      "uri": ""
+    },
+    {
+      "id": "10",
+      "title": "Dragon",
+      "albumId": "3",
+      "duration": "3:18",
+      "uri": ""
+    },
+    {
+      "id": "11",
+      "title": "10 Second Drive",
+      "albumId": "3",
+      "duration": "3:18",
+      "uri": ""
+    },
+    {
+      "id": "12",
+      "title": "Booty Baby",
+      "albumId": "3",
+      "duration": "3:18",
+      "uri": ""
+    }
+  ],
+  "albums": [
+    {
+      "id": "0",
+      "artistId": "0",
+      "title": "Songs for Addicts",
+      "albumArt": "https://m.media-amazon.com/images/I/41NE8XmEhSL._UX358_FMjpg_QL85_.jpg",
+      "songIds": ["0", "1", "2", "3"],
+      "uri": "https://music.apple.com/dk/album/songs-for-addicts/1709130588?l=da"
+    },
+    {
+      "id": "1",
+      "artistId": "1",
+      "title": "Slut",
+      "albumArt": "https://imusic.b-cdn.net/images/item/original/184/5700907272184.jpg?hotel-hunger-2023-slut-lp&class=scaled&v=1686748750",
+      "songIds": ["4", "5", "6", "7"],
+      "uri": "https://music.apple.com/dk/album/slut/1687800128?l=da"
+    },
+    {
+      "id": "3",
+      "artistId": "3",
+      "title": "Fjell 4",
+      "albumArt": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e8/33/8a/e8338a4a-b595-a7e0-65c1-743e0b2ec352/195081910420.jpg/316x316bb.webp",
+      "songIds": ["8", "9", "10", "11", "12"],
+      "uri": "https://music.apple.com/dk/album/fjell-4/1522727687?l=da"
+    }
+  ],
+  "artists": [
+    {
+      "id": "0",
+      "name": "Adam Peleg",
+      "image": "https://m.media-amazon.com/images/I/41NE8XmEhSL._UX358_FMjpg_QL85_.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Hotel Hunger",
+      "image": "https://fmk.nu/webfiles/artist_img18/hotelhunger_l.jpg?v=1684753693"
+    },
+    {
+      "id": "3",
+      "name": "Fjell",
+      "image": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/292515690_469380551856236_8113245963143350146_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=ooS7QtNIGzkAX-Bb_W6&_nc_ht=scontent-cph2-1.xx&oh=00_AfBNJiPgFYyp68XPrTdyUIgRNNDvQuBtjOO95kWDFhUkWg&oe=6579CB3C"
+    }
+  ]
+}
